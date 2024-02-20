@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   padding: 0 10px;
-  min-height: 100vh;
+  min-height: auto;
   background: #6320ee;
 }
 
