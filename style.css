@@ -31,7 +31,7 @@ body {
   max-width: 700px;
   width: 100%;
   margin: 0 auto;
-  padding: 0 30px 30px 30px; /* Adjusted padding */
+  padding: 30px;
   background: #fff;
   border-radius: 1rem;
   box-shadow: 0px 0px 36px -5px #b8b8ff;
@@ -197,3 +197,5 @@ li,
     zoom: 0.7;
   }
 }
+
+
